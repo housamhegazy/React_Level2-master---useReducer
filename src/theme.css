@@ -1,0 +1,22 @@
+
+
+
+.App.dark{
+  background-color: #242424;
+  color: white;
+}
+
+.App.light{
+  background-color: white;
+  color: black;
+}
+
+.App.gray{
+  background-color:gray;
+  color: white;
+}
+
+.App.pink{
+  background-color: pink;
+  color: white;
+}
